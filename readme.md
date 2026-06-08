@@ -35,13 +35,10 @@ I am the founder of **OpenReason**, where I build AI-native products, internal e
 
 ## What I Build
 
-- **OpenReason**: AI-native software, internal engine work, product systems, and execution-heavy tooling
-- **Abelix**: codename for an engine-focused product and tooling direction
-- **Asterix**: a next-generation model in the small-LLM class
-- **Datasets / training workflows**: prompt libraries, behavior data, preparation pipelines, and execution-oriented dataset work
-- **Local AI systems**: Qwen, `llama.cpp` forks, MNN conversion pipelines, runtime experiments, and performance-focused inference work
-- **Not Applicable / N/A**: additional internal projects, product directions, and documents that are not publicly described
-
+- **Cogitum**: Just read https://github.com/StarryCod/Cogitum
+- **Abelix**: Game engine with AI Agent ( Not OSS now )
+- **Asterix**: A new AI architecture ( SNN + Temporal coding ). That maybe 10/20x smarter and cheaper than transformer ( not verified because no budget has been allocated )
+- **Salmon** - Something is coming!
 ## Operating Range
 
 ```mermaid
