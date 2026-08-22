@@ -12,30 +12,46 @@ I build AI-native products, internal engines, datasets, and local model workflow
 
 I work across product engineering, AI systems, native tooling, and model workflows — and I ship the whole way: from ML research to LLM pipelines, from hello world to a full product in production.
 
-My main stack is `TypeScript`, `React`, `Next.js`, `Vite`, `Node.js`, and `Python`, with `Rust` and `C++` for native tooling, runtime work, and performance-critical systems.
+My main stack is `TypeScript`, `React`, `Next.js`, `Vite`, `Node.js`, and `Python`, with `Rust` and `C++` for native tooling, runtime work, and performance-critical systems. Beyond the core stack, I ship in whatever language the task, architecture, or curiosity demands — from Kotlin to Zig.
 
 I am the founder of **OpenReason**, an independent lab building the stack for spatial computing: models that see, language that reasons, and worlds that respond — software built around practical execution rather than demo-only ideas.
 
 ## Tech Surface
 
-**Frontend & Web**
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frontend & Web**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-**Backend & Systems**
+**Backend & Runtimes**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 
@@ -46,7 +62,7 @@ I am the founder of **OpenReason**, an independent lab building the stack for sp
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square&logo=lmstudio&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square)
 ![ONNX](https://img.shields.io/badge/ONNX-545454?style=flat-square&logo=onnx&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -60,6 +76,8 @@ I am the founder of **OpenReason**, an independent lab building the stack for sp
 ![SDL](https://img.shields.io/badge/SDL-173551?style=flat-square&logo=sdl&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 **Infra & Cloud**
 
@@ -82,9 +100,10 @@ I am the founder of **OpenReason**, an independent lab building the stack for sp
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
 ## The Lab — OpenReason
 
@@ -210,7 +229,7 @@ From ML to LLM, from hello world to a full application — if the work is techni
 Role        : Founder / Full-Stack Engineer / AI Engineer
 Company     : OpenReason — openreason.net
 Core Stack  : TypeScript, React, Next.js, Vite, Node.js, Python
-Systems     : Rust, C++, Electron, Tauri, WebAssembly
+Systems     : Rust, C++, C, Go, Kotlin, Zig, Electron, Tauri, WASM
 Focus       : Products, engines, datasets, model workflows, local AI
 Visibility  : Most work private / NDA — public repos are the tip
 Backed by   : Alibaba Cloud AI Catalyst Program
@@ -220,4 +239,5 @@ Status      : Open to collaboration
 ---
 
 ### Short GitHub Bio
-Founder of OpenReason (openreason.net). Full-stack & AI engineer: products, engines, datasets, local AI. From ML to LLM, hello world to shipped products. TS, React, Next.js, Python, Rust, C++. Supported by Alibaba Cloud AI Catalyst Program. Portfolio: github.com/StarryCod/OpenReason
+
+Founder of OpenReason (openreason.net). Full-stack & AI engineer: products, engines, datasets, local AI. From ML to LLM, hello world to shipped products. TS, React, Next.js, Python, Rust, C++, Kotlin, Zig. Supported by Alibaba Cloud AI Catalyst Program. Portfolio: github.com/StarryCod/OpenReason
