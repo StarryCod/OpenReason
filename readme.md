@@ -12,7 +12,7 @@ I build AI-native products, internal engines, datasets, and local model workflow
 
 I work across product engineering, AI systems, native tooling, and model workflows — and I ship the whole way: from ML research to LLM pipelines, from hello world to a full product in production.
 
-My main stack is `TypeScript`, `React`, `Next.js`, `Vite`, `Node.js`, and `Python`, with `Rust` and `C++` for native tooling, runtime work, and performance-critical systems. Beyond the core stack, I ship in whatever language the task, architecture, or curiosity demands — from Kotlin to Zig.
+My main stack is `TypeScript`, `React`, `Next.js`, `Vite`, `Node.js`, and `Python`, with `Rust` and `C++` for native tooling, runtime work, and performance-critical systems. Beyond the core stack, I ship in whatever language the task, architecture, or curiosity demands — from Kotlin to Zig. Everything else — languages, frameworks, runtimes, infra, weird experiments — ships as needed. If it exists, I've probably touched it. If it doesn't, I can build it.
 
 I am the founder of **OpenReason**, an independent lab building the stack for spatial computing: models that see, language that reasons, and worlds that respond — software built around practical execution rather than demo-only ideas.
 
